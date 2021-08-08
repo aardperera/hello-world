@@ -7,4 +7,6 @@ This repository is built step by step.
 
 This is really interesting.
 
+Learn more! Practice more!
+
 
